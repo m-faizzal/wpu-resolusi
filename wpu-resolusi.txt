@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Bisa membuat website
 - Menghasilkan pendapatan dari web developer
 - Membuat portofolio
+- Membuat website vegeto
+- Menjadi fullstack developer
